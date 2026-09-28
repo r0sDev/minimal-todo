@@ -13,8 +13,6 @@ todo edit <id> t    Editar
 todo search <texto> Buscar
 todo stats          Estadísticas
 
-Atajos: `a`, `l`, `d`, `rm`, `s`, `sts`
-
 ## Datos
 
 `~/.local/share/todo-rust/todos.json`
